@@ -1,3 +1,16 @@
+const firebaseConfig = {
+  apiKey: "AIzaSyAtatQWY8vkb6yvZKEFztZ35GaeV634D-8",
+  authDomain: "cl97-ae376.firebaseapp.com",
+  databaseURL: "https://cl97-ae376-default-rtdb.firebaseio.com",
+  projectId: "cl97-ae376",
+  storageBucket: "cl97-ae376.appspot.com",
+  messagingSenderId: "237459330595",
+  appId: "1:237459330595:web:bb884490e7229f54bdc396"
+};
+
+
+
+firebase.initializeApp(firebaseConfig);
 
 //ADD YOUR FIREBASE LINKS
 
